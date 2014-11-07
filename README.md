@@ -11,7 +11,7 @@ A debian based system is enough
 Role Variables
 --------------
 
--   `sudo` , [yes|no], defaults to `yes`
+none
 
 Dependencies
 ------------
