@@ -3,3 +3,4 @@
   sysctl: name=vm.swappiness
           value=0
           state=present
+  sudo: {{ sudo }}
