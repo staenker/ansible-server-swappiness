@@ -1,4 +1,4 @@
-Role Name
+staenker.server-swappiness
 =========
 
 Set swappiness to 0 so server will only swap if running out of memory. A
