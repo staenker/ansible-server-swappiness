@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Richard Hauswald
+  description: Set swappiness to 0 so server will only swap if running out of memory. A monitoring check should verify that 0 bytes of swap are used when running in production.
+  license: Apache License, Version 2.0
+  min_ansible_version: 1.7.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+  - networking
+dependencies: []
+
