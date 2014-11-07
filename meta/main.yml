@@ -12,6 +12,6 @@ galaxy_info:
     versions:
     - all
   categories:
-  - networking
+  - system
 dependencies: []
 
