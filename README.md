@@ -1,12 +1,14 @@
 Role Name
 =========
 
-Set swappiness to 0 so server will only swap if running out of memory. A monitoring check should verify that 0 bytes of swap are used when running in production.
+Set swappiness to 0 so server will only swap if running out of memory. A
+monitoring check should verify that 0 bytes of swap are used when running
+in production.
 
 Requirements
 ------------
 
-A debian based system is enough
+A Debian based system is enough
 
 Role Variables
 --------------
