@@ -1,5 +1,6 @@
 staenker.server-swappiness
 =========
+[![Ansible Galaxy](http://img.shields.io/badge/AnsibleGalaxy-staenker.server--swappiness-blue.svg?style=flat)](https://galaxy.ansible.com/list#/roles/2117)
 
 Set swappiness to 0 so server will only swap if running out of memory. A
 monitoring check should verify that 0 bytes of swap are used when running
